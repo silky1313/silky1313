@@ -3,7 +3,7 @@ I am a software engineer from China. I am currently engaged in the development o
 
 
 # some target
--[] Submit code to redis once
--[] Submut code to etcd once
+- [ ] Submit code to redis once
+- [ ] Submut code to etcd once
 
 
