@@ -1,5 +1,5 @@
 # Hey! Nice to see you.
-I am a software engineer from China. I am currently engaged in the development of devops tools. I am interested in distributed system, database, IoT, Data Structure.
+I am a software engineer from China. I am currently engaged in the development of devops tools. I am interested in distributed system, devops, IoT, Data Structure.
 
 
 # Things I code with
